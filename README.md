@@ -10,7 +10,7 @@ Name your favorite burgers... and then devour them!
 
 2. Click 'Add Burger' Button
 
-3. Choose a burger and click the 'DEVOUR' button
+3. Choose a burger, and click corresponding 'DEVOUR' button
 
 
 ## Getting Started
