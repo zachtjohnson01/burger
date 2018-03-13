@@ -1,7 +1,7 @@
-/* li {
+li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    background: none;
 }
   
 .label {
@@ -16,5 +16,9 @@ background: aqua;
 
 .form-group {
 margin-bottom: 5px;
-} */
+}
+
+body {
+    background-color: #7be0fe;
+}
   
