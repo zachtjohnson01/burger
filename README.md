@@ -4,7 +4,7 @@ Name your favorite burgers... and then devour them!
 
 ### User Flow: Lets make a burger
 
-<img src="public/assets/images/home_screen.png?raw=true" alt="Burger Devourer Home Screen" width="600px" />
+<img src="public/assets/images/home_screen.png?raw=true" alt="Burger Devourer Home Screen" width="500px" />
 
 1. Type Name of Burger
 
