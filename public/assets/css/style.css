@@ -3,6 +3,10 @@ html {
     min-height: 100%;
 }
 
+img {
+    min-height: 254px;
+}
+
 li {
     padding: 5px;
     margin: 5px;
