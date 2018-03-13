@@ -18,7 +18,7 @@ $(function() {
             function() {
                 console.log("changed devoured to", newDevoured);
                 // Reload the page to get the updated list
-                location.reload();
+                window.location.reload();
             }
         );
     });
@@ -41,7 +41,7 @@ $(function() {
         function() {
           console.log("created new burger");
           // Reload the page to get the updated list
-          location.reload();
+          window.location.reload();
         }
       );
     });
